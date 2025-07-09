@@ -1,2 +1,8 @@
 scikit-learn
 pymongo
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+pymongo
